@@ -10,7 +10,9 @@ https://github.com/divagarn/ddwifidriver.git
 
 usage :   
 
-cd Desktop git clone https://github.com/divagarn/ddwifidriver.git
+cd Desktop
+
+git clone https://github.com/divagarn/ddwifidriver.git
 
 cd ddwifidriver
 
