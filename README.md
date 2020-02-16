@@ -1,5 +1,5 @@
 # ddwifidriver
-Automated Shell Script Install WiFi  Driver ( ddwifi ) in Kali Linux 2017.1 
+Automated Shell Script Install WiFi  Driver ( ddwifi ) in Kali Linux 2019.1 
 Made By D_code_E
 #ddWifi Drive. Network Adapter is a software program developed by D_code_E.  
 The software is designed to connect to the Internet and adds a linux Firewall exception in order to do so without being interfered with.
@@ -18,7 +18,7 @@ cd ddwifidriver
 
 chmod +x ./wifidriver.sh
 
-./ddwifidriver.sh
+./wifidriver.sh
 
 1) Install Wifi Driver
 2) Show Commands
