@@ -9,9 +9,13 @@ Download ddwifidriver Installer :
 https://github.com/divagarn/ddwifidriver.git
 
 usage :   
+
 cd Desktop  git clone https://github.com/divagarn/ddwifidriver.git
+
 cd ddwifidriver
-chmod +x ./ddwifidriver.sh  
+
+chmod +x ./ddwifidriver.sh
+
 ./ddwifidriver.sh
 
 1) Install Wifi Driver
