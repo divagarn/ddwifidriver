@@ -16,7 +16,7 @@ git clone https://github.com/divagarn/ddwifidriver.git
 
 cd ddwifidriver
 
-chmod +x ./ddwifidriver.sh
+chmod +x ./wifidriver.sh
 
 ./ddwifidriver.sh
 
